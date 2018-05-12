@@ -1,0 +1,46 @@
+_repo: Der-Gro-inquisitor_38336
+_version: 0.1.0
+alternative_title: Der Grossinquisitor
+contributor:
+  translator:
+    agent_name: Kassner, Rudolf
+    birthdate: 1873
+    deathdate: 1959
+    gutenberg_agent_id: '26800'
+    url: http://www.gutenberg.org/2009/agents/26800
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Kassner
+covers:
+- cover_type: archival
+  image_path: 38336-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoievski, Fiodor
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fedor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38336'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Russian fiction -- Translations into German'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcc 'PG'
+title: Der Großinquisitor
+url: http://www.gutenberg.org/ebooks/38336
